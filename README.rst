@@ -1,6 +1,6 @@
-.. image:: https://github.com/thonny/thonny/blob/master/thonny/res/Ukraine.png
+.. image:: https://github.com/thonny/thonny/blob/master/thonny/res/Palestine.png
 
-`Support Ukraine! <https://github.com/thonny/thonny/wiki/Support-Ukraine>`_
+`Support Palestine! <https://github.com/DJOPRO-YT/thonny/wiki/Support-Palestine>`_
 
 ======
 Thonny
