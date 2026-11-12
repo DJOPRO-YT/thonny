@@ -1,4 +1,4 @@
-.. image:: https://github.com/DJOPRO-YT/thonny/blob/master/thonny/res/Palestine.png
+.. image:: https://github.com/DJOPRO-YT/thonny/blob/master/thonny/res/Palestine_2x.png
 
 `Support Palestine! <https://github.com/DJOPRO-YT/thonny/wiki/Support-Palestine>`_
 
